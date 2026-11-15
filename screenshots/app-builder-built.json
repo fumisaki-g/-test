@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ลอยกระทง",
+      "hasCanvas": true,
+      "bodyTextLen": 190,
+      "bodyTextHash": "4aa6de534819bfdc9ddcbb59bb37aaccba46525cfa90336f0d3bc6d4bbedce51",
+      "bodyTextPrefix": "ลอยกระทง คืนเพ็ญ · เดือนสิบสอง สายน้ำ 0 · โคม 0 · พลุ 0 เทศกาลสา",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ลอยกระทง",
+      "hasCanvas": true,
+      "bodyTextLen": 190,
+      "bodyTextHash": "4aa6de534819bfdc9ddcbb59bb37aaccba46525cfa90336f0d3bc6d4bbedce51",
+      "bodyTextPrefix": "ลอยกระทง คืนเพ็ญ · เดือนสิบสอง สายน้ำ 0 · โคม 0 · พลุ 0 เทศกาลสา",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (322 -> 190 chars, hash mismatch)",
+    "mobile: body text changed (322 -> 190 chars, hash mismatch)"
+  ]
+}

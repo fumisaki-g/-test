@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ลอยกระทง",
+      "hasCanvas": true,
+      "bodyTextLen": 322,
+      "bodyTextHash": "fe17b76bfae8b5b87149025d65037acb6d5cff9257edf583f382f3984f7bf590",
+      "bodyTextPrefix": "ลอยกระทง คืนเพ็ญ · เดือนสิบสอง สายน้ำ 7 · โคม 9 · พลุ 3 เทศกาลสา",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ลอยกระทง",
+      "hasCanvas": true,
+      "bodyTextLen": 322,
+      "bodyTextHash": "fe17b76bfae8b5b87149025d65037acb6d5cff9257edf583f382f3984f7bf590",
+      "bodyTextPrefix": "ลอยกระทง คืนเพ็ญ · เดือนสิบสอง สายน้ำ 7 · โคม 9 · พลุ 3 เทศกาลสา",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
